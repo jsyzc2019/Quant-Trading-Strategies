@@ -1,0 +1,47 @@
+2006-05-12 00:00:00 Launching analysis for d0b1112094c8dd9ef6810c219fff45cd with LEAN Engine v2.5.0.0.16322
+2006-05-12 00:00:00 Algorithm starting warm up...
+2007-03-01 10:00:00 Algorithm finished warming up.
+2010-02-11 10:00:00 long equities
+2010-02-16 11:00:00 Warning: Portfolio rebalance result ignored as it resulted in a single share trade recommendation which can generate high fees. To disable minimum order size checks please set Settings.MinimumOrderMarginPortfolioPercentage = 0.
+2010-02-16 11:00:00 long equities
+2010-05-24 11:00:00 go to cash
+2010-06-21 11:00:00 long equities
+2010-06-28 11:00:00 go to cash
+2010-08-09 11:00:00 long equities
+2010-08-16 11:00:00 go to cash
+2010-09-20 11:00:00 long equities
+2011-08-08 11:00:00 go to cash
+2011-10-31 11:00:00 long equities
+2011-11-07 11:00:00 go to cash
+2011-12-27 11:00:00 long equities
+2012-01-03 11:00:00 go to cash
+2012-01-09 11:00:00 long equities
+2012-06-04 11:00:00 go to cash
+2012-06-11 11:00:00 long equities
+2012-11-12 11:00:00 go to cash
+2012-11-26 11:00:00 long equities
+2014-10-13 11:00:00 go to cash
+2014-10-27 11:00:00 long equities
+2015-08-24 11:00:00 go to cash
+2015-10-26 11:00:00 long equities
+2015-11-16 11:00:00 go to cash
+2015-11-23 11:00:00 long equities
+2015-12-14 11:00:00 go to cash
+2016-03-14 11:00:00 long equities
+2018-03-26 11:00:00 go to cash
+2018-04-02 11:00:00 long equities
+2018-10-15 11:00:00 go to cash
+2018-11-12 11:00:00 long equities
+2018-11-19 11:00:00 go to cash
+2019-02-19 11:00:00 long equities
+2019-03-11 11:00:00 go to cash
+2019-03-18 11:00:00 long equities
+2019-06-03 11:00:00 go to cash
+2019-06-10 11:00:00 long equities
+2020-03-02 11:00:00 go to cash
+2020-06-01 11:00:00 long equities
+2020-06-29 11:00:00 go to cash
+2020-07-06 11:00:00 long equities
+2021-10-01 16:00:00 Algorithm Id:(d0b1112094c8dd9ef6810c219fff45cd) completed in 4.42 seconds at 24k data points per second. Processing total of 105,662 data points.
+2021-10-01 16:00:00 Due to numerical precision issues in the factor file, data for the following symbols was adjust to a later starting date: [TQQQ, 2/10/2010]
+2021-10-01 16:00:00 The starting dates for the following symbols have been adjusted to match their map files first date: [TQQQ, 2010-02-11]
